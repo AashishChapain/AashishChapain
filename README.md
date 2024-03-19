@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishchapain" alt="aashishchapain" /></a> </p>
 
-- 🔭 I’m currently working on **Generative AI**
+- 🔭 I’m currently working on **Stable Diffusion**
 
-- 🌱 I’m currently learning **Pytorch, LangChain**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AashishChapain?tab=repositories](https://github.com/AashishChapain?tab=repositories)
 
