@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Stable Diffusion**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Generative AI, langchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AashishChapain?tab=repositories](https://github.com/AashishChapain?tab=repositories)
 
